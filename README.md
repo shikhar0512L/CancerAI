@@ -49,3 +49,5 @@ React JS, Next.js, TailwindCSS, Typescript, Preline, OpenAI API, Tabler Icon, Ja
 -AI model integration for data analysis
 -Building interactive UI components
 -Deploying your React.js application
+
+Check Here -> https://cancerai-in.web.app/
